@@ -1,12 +1,12 @@
 {
-    "name": "toplan/laravel-sms",
+    "name": "toplan/auto-sms",
     "description": "A mobile phone number validation solution based on laravel",
     "license": "MIT",
-    "keywords": ["sms", "mobile", "phone", "laravel", "laravel-sms"],
+    "keywords": ["sms", "mobile", "phone", "autosms", "auto-sms"],
     "authors": [
         {
-            "name": "toplan",
-            "email": "toplan710@gmail.com"
+            "name": "mos",
+            "email": "ufourufour3441@gmail.com"
         }
     ],
     "require": {
